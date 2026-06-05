@@ -1,5 +1,461 @@
 {
   "version": 1,
   "updated": "2026-06-05",
-  "assets": []
+  "assets": [
+    {
+      "id": "a-0001",
+      "file": "mode-a-editorial/2026-06-dubai-lighttrails-minaret.png",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-a-editorial/2026-06-dubai-lighttrails-minaret.png",
+      "type": "image",
+      "mode": "A",
+      "category": null,
+      "tags": [
+        "dubai",
+        "night",
+        "light-trails",
+        "minaret",
+        "city"
+      ],
+      "dimensions": "",
+      "source": "ai-generated",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "a-0002",
+      "file": "mode-a-editorial/2026-06-dubai-lighttrails-minaret.mp4",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-a-editorial/2026-06-dubai-lighttrails-minaret.mp4",
+      "type": "video",
+      "mode": "A",
+      "category": null,
+      "tags": [
+        "dubai",
+        "night",
+        "light-trails",
+        "minaret",
+        "city",
+        "motion"
+      ],
+      "dimensions": "",
+      "source": "ai-generated",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "a-0003",
+      "file": "mode-a-editorial/2026-06-man-truck-tailgate-goldenhour.png",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-a-editorial/2026-06-man-truck-tailgate-goldenhour.png",
+      "type": "image",
+      "mode": "A",
+      "category": null,
+      "tags": [
+        "saudi",
+        "portrait",
+        "truck",
+        "golden-hour",
+        "palm"
+      ],
+      "dimensions": "",
+      "source": "ai-generated",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "a-0004",
+      "file": "mode-a-editorial/2026-06-three-creatives-desert-arch.png",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-a-editorial/2026-06-three-creatives-desert-arch.png",
+      "type": "image",
+      "mode": "A",
+      "category": null,
+      "tags": [
+        "saudi",
+        "fashion",
+        "arch",
+        "golden-hour",
+        "group"
+      ],
+      "dimensions": "",
+      "source": "ai-generated",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "a-0005",
+      "file": "mode-a-editorial/2026-06-three-creatives-desert-arch.mp4",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-a-editorial/2026-06-three-creatives-desert-arch.mp4",
+      "type": "video",
+      "mode": "A",
+      "category": null,
+      "tags": [
+        "saudi",
+        "fashion",
+        "arch",
+        "golden-hour",
+        "group",
+        "motion"
+      ],
+      "dimensions": "",
+      "source": "ai-generated",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "a-0006",
+      "file": "mode-a-editorial/2026-06-riyadh-split-diriyah-kingdom.png",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-a-editorial/2026-06-riyadh-split-diriyah-kingdom.png",
+      "type": "image",
+      "mode": "A",
+      "category": null,
+      "tags": [
+        "riyadh",
+        "diriyah",
+        "kingdom-tower",
+        "kufic",
+        "split-frame"
+      ],
+      "dimensions": "",
+      "source": "ai-generated",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "d-0001",
+      "file": "mode-d-surveillance/2026-06-woman-crosswalk-green.png",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-d-surveillance/2026-06-woman-crosswalk-green.png",
+      "type": "image",
+      "mode": "D",
+      "category": null,
+      "tags": [
+        "crosswalk",
+        "oranges",
+        "green-lock",
+        "bounding-box",
+        "arabic-labels"
+      ],
+      "dimensions": "",
+      "source": "ai-generated",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "d-0002",
+      "file": "mode-d-surveillance/2026-06-woman-crosswalk-yellow.png",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-d-surveillance/2026-06-woman-crosswalk-yellow.png",
+      "type": "image",
+      "mode": "D",
+      "category": null,
+      "tags": [
+        "crosswalk",
+        "oranges",
+        "yellow",
+        "bounding-box",
+        "arabic-labels"
+      ],
+      "dimensions": "",
+      "source": "ai-generated",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "d-0003",
+      "file": "mode-d-surveillance/2026-06-woman-crosswalk.mp4",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-d-surveillance/2026-06-woman-crosswalk.mp4",
+      "type": "video",
+      "mode": "D",
+      "category": null,
+      "tags": [
+        "crosswalk",
+        "oranges",
+        "bounding-box",
+        "motion"
+      ],
+      "dimensions": "",
+      "source": "ai-generated",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "e-0001",
+      "file": "mode-e-lofi-retro/2026-06-compaq-crt-fresh-produce.png",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-e-lofi-retro/2026-06-compaq-crt-fresh-produce.png",
+      "type": "image",
+      "mode": "E",
+      "category": null,
+      "tags": [
+        "crt",
+        "compaq",
+        "pixel-arabic",
+        "y2k",
+        "fresh-is-for-produce"
+      ],
+      "dimensions": "",
+      "source": "ai-generated",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "e-0002",
+      "file": "mode-e-lofi-retro/2026-06-cassette-pencil-yellow.png",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-e-lofi-retro/2026-06-cassette-pencil-yellow.png",
+      "type": "image",
+      "mode": "E",
+      "category": null,
+      "tags": [
+        "cassette",
+        "pencil",
+        "yellow",
+        "flat-lay",
+        "retro"
+      ],
+      "dimensions": "",
+      "source": "ai-generated",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "e-0003",
+      "file": "mode-e-lofi-retro/2026-06-crt-manifesto-taste-wins.png",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-e-lofi-retro/2026-06-crt-manifesto-taste-wins.png",
+      "type": "image",
+      "mode": "E",
+      "category": null,
+      "tags": [
+        "crt",
+        "manifesto",
+        "quote",
+        "taste",
+        "terminal"
+      ],
+      "dimensions": "",
+      "source": "ai-generated",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "e-0004",
+      "file": "mode-e-lofi-retro/2026-06-cassette-pencil-rewind.gif",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-e-lofi-retro/2026-06-cassette-pencil-rewind.gif",
+      "type": "gif",
+      "mode": "E",
+      "category": null,
+      "tags": [
+        "cassette",
+        "pencil",
+        "stop-motion",
+        "unspool"
+      ],
+      "dimensions": "",
+      "source": "found-gif",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "e-0005",
+      "file": "mode-e-lofi-retro/2026-06-floppy-burning-rose.gif",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-e-lofi-retro/2026-06-floppy-burning-rose.gif",
+      "type": "gif",
+      "mode": "E",
+      "category": null,
+      "tags": [
+        "floppy",
+        "rose",
+        "y2k",
+        "holographic"
+      ],
+      "dimensions": "",
+      "source": "found-gif",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "e-0006",
+      "file": "mode-e-lofi-retro/2026-06-terminal-vi-sick.gif",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-e-lofi-retro/2026-06-terminal-vi-sick.gif",
+      "type": "gif",
+      "mode": "E",
+      "category": null,
+      "tags": [
+        "terminal",
+        "crt",
+        "green",
+        "htop"
+      ],
+      "dimensions": "",
+      "source": "found-gif",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "f-0001",
+      "file": "mode-f-meme-poster/2026-06-fisherman-net-calligraphy.png",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/mode-f-meme-poster/2026-06-fisherman-net-calligraphy.png",
+      "type": "image",
+      "mode": "F",
+      "category": null,
+      "tags": [
+        "fisherman",
+        "bw",
+        "calligraphy",
+        "red",
+        "vintage"
+      ],
+      "dimensions": "",
+      "source": "ai-generated",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "logo-0001",
+      "file": "logos/2026-06-n17-circle-stamp-white.svg",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/logos/2026-06-n17-circle-stamp-white.svg",
+      "type": "svg",
+      "mode": null,
+      "category": "logo",
+      "tags": [
+        "stamp",
+        "circle",
+        "white",
+        "n17"
+      ],
+      "dimensions": "",
+      "source": "brand-original",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "logo-0002",
+      "file": "logos/2026-06-n17-circle-stamp-spin.gif",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/logos/2026-06-n17-circle-stamp-spin.gif",
+      "type": "gif",
+      "mode": null,
+      "category": "logo",
+      "tags": [
+        "stamp",
+        "circle",
+        "white",
+        "n17",
+        "animated"
+      ],
+      "dimensions": "",
+      "source": "brand-original",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "sticker-0001",
+      "file": "stickers/2026-06-film-still-scissors-subtitle.gif",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/stickers/2026-06-film-still-scissors-subtitle.gif",
+      "type": "gif",
+      "mode": null,
+      "category": "sticker",
+      "tags": [
+        "film-still",
+        "arabic-subtitle",
+        "wordmark",
+        "meme"
+      ],
+      "dimensions": "",
+      "source": "found-gif",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "sticker-0002",
+      "file": "stickers/2026-06-flame-shades-calligraphy.gif",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/stickers/2026-06-flame-shades-calligraphy.gif",
+      "type": "gif",
+      "mode": null,
+      "category": "sticker",
+      "tags": [
+        "cartoon",
+        "calligraphy",
+        "flames",
+        "meme"
+      ],
+      "dimensions": "",
+      "source": "found-gif",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "sticker-0003",
+      "file": "stickers/2026-06-interesting-times-chrome-80s.gif",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/stickers/2026-06-interesting-times-chrome-80s.gif",
+      "type": "gif",
+      "mode": null,
+      "category": "sticker",
+      "tags": [
+        "chrome",
+        "80s",
+        "wordmark",
+        "sparkle"
+      ],
+      "dimensions": "",
+      "source": "found-gif",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    },
+    {
+      "id": "sticker-0004",
+      "file": "stickers/2026-06-sweep-the-shelf-reaction.gif",
+      "raw_url": "https://raw.githubusercontent.com/SABATAGE17/17Assets/main/stickers/2026-06-sweep-the-shelf-reaction.gif",
+      "type": "gif",
+      "mode": null,
+      "category": "sticker",
+      "tags": [
+        "reaction",
+        "shopping",
+        "take-everything",
+        "unbranded"
+      ],
+      "dimensions": "",
+      "source": "found-gif",
+      "credit": null,
+      "prompt": "",
+      "project": "",
+      "added": "2026-06-05"
+    }
+  ]
 }
